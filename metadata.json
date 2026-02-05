@@ -1,0 +1,7 @@
+{
+  "name": "Gestão Fácil",
+  "description": "A comprehensive 2-in-1 financial management system for personal and business use, featuring workspaces, bank reconciliation, and detailed reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
